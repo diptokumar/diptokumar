@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diptokumar
-- 👀 I’m interested in BackEnd programming in node js Javascript framework, and also interested in mobile App development with Dart, Flutter. 
+- 👀 I’m interested in BackEnd programming in node js Javascript framework and golang, and also interested in mobile App development with Dart, Flutter. 
 - 💞️ I’m looking to collaborate on open source projects to rich the pub.dev community. 
 - 📫 How to reach me? Just drop a mail at diptakumar2@gmail.com
 
