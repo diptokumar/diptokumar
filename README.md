@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diptokumar
-- 👀 I’m interested in BackEnd programming in node js Javascript framework, . 
+- 👀 I’m interested in BackEnd programming in node js Javascript framework. 
 - 📫 How to reach me? Just drop a mail at diptakumar2@gmail.com
 
 <!---
